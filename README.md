@@ -48,7 +48,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import dnanmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dnanmskmin@esm/index.mjs';
+import dnanmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dnanmskmin@v0.2.0-esm/index.mjs';
 ```
 
 #### dnanmskmin( N, x, strideX, mask, strideMask )
@@ -175,7 +175,7 @@ import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@esm/i
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@esm/index.mjs';
 import Float64Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-float64@esm/index.mjs';
 import Uint8Array from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-uint8@esm/index.mjs';
-import dnanmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dnanmskmin@esm/index.mjs';
+import dnanmskmin from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dnanmskmin@v0.2.0-esm/index.mjs';
 
 var mask;
 var x;
