@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-30)
+## Unreleased (2025-03-26)
 
 <section class="commits">
 
@@ -12,7 +12,8 @@
 
 <details>
 
--   [`47c15ad`](https://github.com/stdlib-js/stdlib/commit/47c15adcd7090bf3e633b42cd65d311a40af7e19) - **refactor:** update `stats/base/dnanmskmin` native addon from C++ to C [(#4161)](https://github.com/stdlib-js/stdlib/pull/4161) _(by Vivek maurya, Athan Reines)_
+-   [`6050514`](https://github.com/stdlib-js/stdlib/commit/6050514b3f4b296931f4f614b56343fecc48ccda) - **refactor:** update paths _(by Aayush Khanna)_
+-   [`47c15ad`](https://github.com/stdlib-js/stdlib/commit/47c15adcd7090bf3e633b42cd65d311a40af7e19) - **refactor:** update `stats/base/dnanmskmin` native addon from C++ to C [(#4161)](https://github.com/stdlib-js/stdlib/pull/4161) _(by Vivek Maurya, Athan Reines)_
 -   [`62364f6`](https://github.com/stdlib-js/stdlib/commit/62364f62ea823a3b52c2ad25660ecd80c71f8f36) - **style:** fix C comment alignment _(by Philipp Burckhardt)_
 -   [`9e689ff`](https://github.com/stdlib-js/stdlib/commit/9e689ffcb7c6223afc521f1e574b42f10921cf5e) - **chore:** fix indentation in manifest.json files _(by Philipp Burckhardt)_
 -   [`272ae7a`](https://github.com/stdlib-js/stdlib/commit/272ae7ac5c576c68cfab1b6e304c86407faa20cd) - **docs:** remove comment _(by Athan Reines)_
@@ -28,11 +29,12 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
--   Vivek maurya
+-   Vivek Maurya
 
 </section>
 
