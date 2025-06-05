@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-30)
+## Unreleased (2025-06-05)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#7079](https://github.com/stdlib-js/stdlib/issues/7079)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`ea63aeb`](https://github.com/stdlib-js/stdlib/commit/ea63aeb201d61526dc65f558285ff96c63f20be8) - **chore:** fix C lint errors [(#7219)](https://github.com/stdlib-js/stdlib/pull/7219) _(by zhanggy)_
 -   [`7018b9f`](https://github.com/stdlib-js/stdlib/commit/7018b9f18a5bd95edf2deb1db33ca68c9075d421) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`6050514`](https://github.com/stdlib-js/stdlib/commit/6050514b3f4b296931f4f614b56343fecc48ccda) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`47c15ad`](https://github.com/stdlib-js/stdlib/commit/47c15adcd7090bf3e633b42cd65d311a40af7e19) - **refactor:** update `stats/base/dnanmskmin` native addon from C++ to C [(#4161)](https://github.com/stdlib-js/stdlib/pull/4161) _(by Vivek Maurya, Athan Reines)_
@@ -30,12 +43,13 @@
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Philipp Burckhardt
 -   Vivek Maurya
+-   zhanggy
 
 </section>
 
