@@ -6,6 +6,16 @@
 
 ## Unreleased (2025-06-05)
 
+<section class="features">
+
+### Features
+
+-   [`6943393`](https://github.com/stdlib-js/stdlib/commit/6943393d702a1a4cc2dad7b6e22b813e98d99971) - add C ndarray interface and refactor implementation for `stats/base/dnanmskmin` [(#7198)](https://github.com/stdlib-js/stdlib/pull/7198)
+
+</section>
+
+<!-- /.features -->
+
 <section class="issues">
 
 ### Closed Issues
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`6943393`](https://github.com/stdlib-js/stdlib/commit/6943393d702a1a4cc2dad7b6e22b813e98d99971) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanmskmin` [(#7198)](https://github.com/stdlib-js/stdlib/pull/7198) _(by Gururaj Gurram, Athan Reines)_
 -   [`ea63aeb`](https://github.com/stdlib-js/stdlib/commit/ea63aeb201d61526dc65f558285ff96c63f20be8) - **chore:** fix C lint errors [(#7219)](https://github.com/stdlib-js/stdlib/pull/7219) _(by zhanggy)_
 -   [`7018b9f`](https://github.com/stdlib-js/stdlib/commit/7018b9f18a5bd95edf2deb1db33ca68c9075d421) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`6050514`](https://github.com/stdlib-js/stdlib/commit/6050514b3f4b296931f4f614b56343fecc48ccda) - **refactor:** update paths _(by Aayush Khanna)_
@@ -43,10 +54,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gururaj Gurram
 -   Philipp Burckhardt
 -   Vivek Maurya
 -   zhanggy
