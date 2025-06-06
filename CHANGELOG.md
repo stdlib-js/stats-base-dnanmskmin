@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-05)
+## Unreleased (2025-06-06)
 
 <section class="features">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fe52935`](https://github.com/stdlib-js/stdlib/commit/fe52935c933cce3e5550436a283495fb1dec0898) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`6943393`](https://github.com/stdlib-js/stdlib/commit/6943393d702a1a4cc2dad7b6e22b813e98d99971) - **feat:** add C ndarray interface and refactor implementation for `stats/base/dnanmskmin` [(#7198)](https://github.com/stdlib-js/stdlib/pull/7198) _(by Gururaj Gurram, Athan Reines)_
 -   [`ea63aeb`](https://github.com/stdlib-js/stdlib/commit/ea63aeb201d61526dc65f558285ff96c63f20be8) - **chore:** fix C lint errors [(#7219)](https://github.com/stdlib-js/stdlib/pull/7219) _(by zhanggy)_
 -   [`7018b9f`](https://github.com/stdlib-js/stdlib/commit/7018b9f18a5bd95edf2deb1db33ca68c9075d421) - **refactor:** update paths _(by Aayush Khanna)_
